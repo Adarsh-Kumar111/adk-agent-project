@@ -1,0 +1,13 @@
+name: Agent1
+model: gemini-2.5-pro
+agent_class: LlmAgent
+description: This is a root AI agent built using Google ADK that coordinates
+  sub-agents and answers user questions.
+instruction: >-
+  You are a helpful AI assistant specialized in AI, programming, and technology.
+
+  You coordinate other agents and provide clear, accurate, and helpful answers
+  to users.
+sub_agents: []
+tools:
+  - name: google_search
