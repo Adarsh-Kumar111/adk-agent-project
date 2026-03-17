@@ -1,24 +1,30 @@
 # ADK Agent Project
 
-This project is built using **Google Agent Development Kit (ADK)** and deployed using **Google Cloud Run**.
+🚀 **Live AI Agent:**
+https://agent1service-509829538647.us-central1.run.app
 
-## 🚀 Features
+📂 **GitHub Repository:**
+https://github.com/Adarsh-Kumar111/adk-agent-project
 
-* Multiple AI Agents
-* Agent coordination system
+---
+
+## Features
+
+* AI Agent built using Google ADK
 * Gemini AI integration
-* Cloud Run deployment
+* Multiple agent coordination
 * Python based architecture
+*  Deployed on Google Cloud Run
 
-## 🧠 Technologies Used
+## Technologies
 
 * Python
-* Google ADK (Agent Development Kit)
+* Google ADK
 * Vertex AI
 * Gemini Model
-* Google Cloud Run
+* Cloud Run
 
-## 📂 Project Structure
+📂 Project Structure
 
 Agent0 – Base agent configuration
 Agent1 – Additional agent logic
@@ -29,26 +35,7 @@ Other files:
 deploycloudrun.py – Deploys the project to Cloud Run
 .gitignore – Prevents sensitive files from being pushed
 
-## ⚙️ Setup
-
-Clone the repository:
-
-git clone https://github.com/Adarsh-Kumar111/adk-agent-project.git
-
-Go into project folder:
-
-cd adk-agent-project
-
-Run the agent:
-
-adk web
-
-## ☁️ Deployment
-
-Deploy to Cloud Run:
-
-python deploycloudrun.py
-
-## 👨‍💻 Author
+## Author
 
 Adarsh Kumar
+
